@@ -1,0 +1,19 @@
+﻿'Outputting Text.exe' (Win32): Loaded 'C:\Users\charl\source\repos\Outputting Text\Debug\Outputting Text.exe'. Symbols loaded.
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3d58 has exited with code 0 (0x0).
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Outputting Text.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x3d9c has exited with code 0 (0x0).
+The thread 0x3a40 has exited with code 0 (0x0).
+The thread 0x1fa0 has exited with code 0 (0x0).
+The program '[14352] Outputting Text.exe' has exited with code 0 (0x0).
